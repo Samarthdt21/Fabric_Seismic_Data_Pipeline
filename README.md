@@ -5,11 +5,15 @@ A comprehensive end-to-end ETL analytics pipeline for earthquake data processing
     
 ![architecture](https://github.com/user-attachments/assets/77005bf6-f616-49fa-93d5-0bd235ae0789)    
 
-This solution implements a modern data pipeline that ingests, transforms, and visualizes seismic data across the following components:     
+This solution implements a modern data pipeline that ingests, transforms, and visualizes seismic data across the following components:      
+    
 <b>Microsoft Fabric:</b> Performs data transformation and business logic processing using <b> Medallion architecture </b>    
-<b>Fabric Data Factory:</b> Orchestrates data movement and pipeline workflows using scheduling to batch process data every day from source.    
-![data_factory](https://github.com/user-attachments/assets/6caf60a3-996a-4179-9aa4-46049933567a)   
-![schedule](https://github.com/user-attachments/assets/9985c25a-72e0-407f-a50d-45208f6adb1c)   
+<b>Fabric Data Factory:</b> Orchestrates data movement and pipeline workflows using scheduling to batch process data every day from source.      
+     
+![data_factory](https://github.com/user-attachments/assets/6caf60a3-996a-4179-9aa4-46049933567a)  
+   
+![schedule](https://github.com/user-attachments/assets/9985c25a-72e0-407f-a50d-45208f6adb1c)     
+   
 <b>Power BI:</b> Delivers an interactive dashboard on earthquake data aggregation for country-wise insights.   
 
 <b>Data Source:</b>    
