@@ -17,10 +17,12 @@ This solution implements a modern data pipeline that ingests, transforms, and vi
    
 <b>Power BI:</b> Delivers an interactive dashboard on earthquake data aggregation for country-wise insights.   
 
+       
 ## Data Source:    
 <a href="https://www.usgs.gov/programs/earthquake-hazards">US Geographical Survey website</a>     
 <a href="https://earthquake.usgs.gov/fdsnws/event/1/">Earthquake API documentation</a>
 
+      
 ## Notebooks:    
 <b>Bronze Notebook:</b> This notebook focuses on ingesting raw earthquake data from the USGS API. It performs minimal processing to store data in its raw format.   
 
@@ -28,6 +30,7 @@ This solution implements a modern data pipeline that ingests, transforms, and vi
 
 <b>Gold Notebook:</b> In this final processing stage, the notebook aggregates the data to create analytics-ready datasets optimized for high-value insights in tools like Power BI   
 
+      
 ## Visualisation on Power BI    
     
 ![erqk](https://github.com/user-attachments/assets/4e5c6b30-0fb4-4c5d-91c2-595a55b120d5)
