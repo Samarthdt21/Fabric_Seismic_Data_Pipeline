@@ -3,7 +3,8 @@ A comprehensive end-to-end ETL analytics pipeline for earthquake data processing
 
 ## Architecture Overview    
     
-![architecture](https://github.com/user-attachments/assets/77005bf6-f616-49fa-93d5-0bd235ae0789)    
+![architecture_](https://github.com/user-attachments/assets/571db20b-76ae-46fb-a808-a75bd31d44ce)   
+
 
 This solution implements a modern data pipeline that ingests, transforms, and visualizes seismic data across the following components:      
     
