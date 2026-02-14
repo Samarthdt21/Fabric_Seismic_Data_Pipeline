@@ -19,8 +19,8 @@ This solution implements a modern data pipeline that ingests, transforms, and vi
 
        
 ## Data Source:    
-<a href="https://www.usgs.gov/programs/earthquake-hazards">US Geographical Survey website</a>     
-<a href="https://earthquake.usgs.gov/fdsnws/event/1/">Earthquake API documentation</a>
+<a href="https://www.usgs.gov/programs/earthquake-hazards" target="_blank">US Geographical Survey website</a>     
+<a href="https://earthquake.usgs.gov/fdsnws/event/1/" target="_blank">Earthquake API documentation</a>
 
       
 ## Notebooks:    
