@@ -1,5 +1,5 @@
 # Worldwide Seismic Events Data Pipeline
-A comprehensive end-to-end ETL analytics pipeline for earthquake data processing, leveraging Microsoft Fabric, Data Factory, PySpark, and Power BI to transform raw retail data into actionable business insights.   
+A comprehensive end-to-end ETL analytics pipeline for earthquake data processing, leveraging Microsoft Fabric, Data Factory, PySpark, and Power BI to transform raw seismic events data into actionable insights.   
 
 ## Architecture Overview    
     
